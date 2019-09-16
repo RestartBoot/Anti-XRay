@@ -1,0 +1,27 @@
+anti-xray:
+      enabled: true
+      engine-mode: 2
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
+      
+      //
+      // This part is configurable and changeable at any time. Tested with Viaversion on the 
+      // versions 1.8-1.12.2. (Texture packs and hack clients)
+      //
+      
+      
